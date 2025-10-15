@@ -2,7 +2,7 @@ var msg = "Hello!"
 
 function greet() {
 
-    let name = "Vandita"
+    let name = "World"
     console.log(msg, name)
 }
 
