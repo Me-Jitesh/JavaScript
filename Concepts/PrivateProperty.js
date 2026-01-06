@@ -1,3 +1,5 @@
+// Closures let you create truly private variables
+
 function createBankAccount(initialBalance) {
     let balance = initialBalance;  // PRIVATE - can't be accessed directly
 
